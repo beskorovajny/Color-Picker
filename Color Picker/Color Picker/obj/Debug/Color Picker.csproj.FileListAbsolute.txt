@@ -1,0 +1,14 @@
+C:\Users\besko\source\repos\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+C:\Users\besko\source\repos\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+C:\Users\besko\source\repos\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\Color Picker.csprojAssemblyReference.cache
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\MainWindow.g.cs
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\App.g.cs
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\Color Picker_MarkupCompile.cache
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\Color Picker_MarkupCompile.lref
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\MainWindow.baml
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\Color Picker.g.resources
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\Color Picker.csproj.GenerateResource.cache
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+C:\Users\besko\source\repos\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
